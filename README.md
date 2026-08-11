@@ -78,7 +78,7 @@ Customers categorized into:
 * Validated using statistical testing
 
 **Result:**
-Statistically significant improvement (p < 0.05)
+Statistically significant improvement (p < 0.032)
 
 ---
 
